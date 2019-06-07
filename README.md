@@ -1,16 +1,37 @@
 # flutter_charts_app
 
-A new Flutter application.
+Flutter Tutorial - Flutter Charts
+Flutter Tutorial - Flutter Charts Video series can be watched here https://youtu.be/4gkt5qDBq4w
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+we will learn how to implement Charts in your Flutter Application and also included a demo page.
 
-A few resources to get you started if this is your first Flutter project:
+The Charts dependency
+Flutter Sparkline - https://pub.dartlang.org/packages/flutter_sparkline
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+Link to my dashboard video which provides you with more details about Flutter_staggered_grid_view
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Part 1 - https://www.youtube.com/watch?v=BEVOiv_j35w
+Part -2 series here  https://youtu.be/ABbBYebnwDQ
+
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/FlutterCharts/blob/master/assets/Screenshot_1559877889.png" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                     <img src="https://github.com/whatsupcoders/FlutterCharts/blob/master/assets/Screenshot_1559877891.png" width="200"/>
+            </td>
+      </tr>
+  </table>
+  </div>
+  
+For more Flutter Tutorials watch my videos on https://www.youtube.com/c/whatsupcoders <br />
+If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
+
+FOLLOW ME HERE:
+
+Facebook: https://www.facebook.com/whatsupcoders <br />
+Twitter: https://www.twitter.com/whatsupcoders
